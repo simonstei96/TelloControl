@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //Set-Commands
+    <string name="tello_init">command</string>
+    <string name="tello_takeoff">takeoff</string>
+    <string name="tello_land">land</string>
+    <string name="tello_startstream">streamon</string>
+    <string name="tello_stopstream">streamoff</string>
+    <string name="tello_stopall">emergency</string>
+    <string name="tello_upwards">up %o</string>
+    <string name="tello_downwards">down %o</string>
+    <string name="tello_rollL">left %o</string>
+    <string name="tello_rollR">right %o</string>
+    <string name="tello_pitchF">forward %o</string>
+    <string name="tello_pitchB">back %o</string>
+    <string name="tello_yawCW">cw %o</string>
+    <string name="tello_yawCCW">ccw %o</string>
+    <string name="tello_flip">flip %s</string>
+    <string name="tello_goto">go %o %o %o %o</string>
+    <string name="tello_curve">curve %o %o %o %o %o %o %o</string>
+    <string name="tello_speed">speed %o</string>
+    <string name="tello_rc">rc %o %o %o %o</string>
+    <string name="tello_wifi">wifi %s %s</string>
+    //Get-Commands
+    <string name="tello_Rspeed">speed?</string>
+    <string name="tello_Rbattery">battery?</string>
+    <string name="tello_Rtime">time?</string>
+    <string name="tello_Rheight">height?</string>
+    <string name="tello_Rtemp">temp?</string>
+    <string name="tello_Rattitude">attitude?</string>
+    <string name="tello_Rbaro">baro?</string>
+    <string name="tello_Racceleration">acceleration?</string>
+    <string name="tello_Rtof">tof?</string>
+    <string name="tello_Rwifi">wifi?</string>
+</resources>
+
